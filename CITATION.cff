@@ -1,0 +1,13 @@
+
+
+cff-version: 1.2.0
+title: Raphson-s-method-free-from-second-derivative
+message: 'If you use this software, you are amazing'
+type: software
+authors:
+  - given-names: Sebastian Arango Urrea
+    name-particle: Sebastian
+    family-names: Arango Urrea
+    email: sebas.10arango@gmail.com
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+date-released: 2022-04-28
